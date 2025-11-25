@@ -84,7 +84,7 @@ Top 5 recommendations for 'Inception':
 
 ### Future Enhancements
 
-You can extend the project by adding:
+You can extend the project by adding:\
 ✔ Movie posters (TMDB API)\
 ✔ Movie descriptions in output\
 ✔ Ratings and popularity\
@@ -93,14 +93,14 @@ You can extend the project by adding:
 
 ### Why This Project Is Valuable
 
-This project demonstrates:
+This project demonstrates:\
 
-Data preprocessing
-NLP & text vectorization
-Machine Learning fundamentals
-Recommender system logic
-Clean Python code
-Interactive UI with Streamlit
+Data preprocessing\
+NLP & text vectorization\
+Machine Learning fundamentals\
+Recommender system logic\
+Clean Python code\
+Interactive UI with Streamlit\
 Industry-relevant skills for Data Analyst / ML roles
 
 ## 👤 Author
