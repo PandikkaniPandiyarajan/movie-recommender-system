@@ -22,11 +22,11 @@ The project includes:
 - Jupyter Notebook  
 
 ##  Project Structure
-movie-recommendation-system/
-├── movie_dataset.csv
-├── movie_recommender.py
-├── movie_recommender.ipynb
-├── app.py
+movie-recommendation-system/\
+├── movie_dataset.csv\
+├── movie_recommender.py\
+├── movie_recommender.ipynb\
+├── app.py\
 └── README.md
 
 ##  How the Model Works
@@ -93,7 +93,7 @@ You can extend the project by adding:\
 
 ### Why This Project Is Valuable
 
-This project demonstrates:\
+This project demonstrates:
 
 Data preprocessing\
 NLP & text vectorization\
