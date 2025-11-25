@@ -85,10 +85,10 @@ Top 5 recommendations for 'Inception':
 ### Future Enhancements
 
 You can extend the project by adding:
-✔ Movie posters (TMDB API)
-✔ Movie descriptions in output
-✔ Ratings and popularity
-✔ Hybrid recommendation system
+✔ Movie posters (TMDB API)\
+✔ Movie descriptions in output\
+✔ Ratings and popularity\
+✔ Hybrid recommendation system\
 ✔ Deployment on Streamlit Cloud
 
 ### Why This Project Is Valuable
